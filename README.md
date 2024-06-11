@@ -8,7 +8,7 @@
 <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code>
 <code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code>
 <code><img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go"/></code>
-<code><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=pyhton"/></code>
+<code><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python"/></code>
 
 ![DevilTears's GitHub stats](https://stats.justsong.cn/api/leetcode?username=deviltears&cn=true&lang=zh-CN&theme=merko)
 
